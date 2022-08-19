@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">The Tracker</string>
+
+    <string name="google_api_service_key" translatable="false">AIzaSyCYu7sCuGvtyl9haQyiBmABcJ374jIqXbA</string>
+
+    <string name="ok">OK</string>
+    <string name="yes">Yes</string>
+    <string name="no">No</string>
+    <string name="confirm">Confirm</string>
+    <string name="cancel">Cancel</string>
+    <string name="enable_location_message">Your location seems to be disabled, please enable it</string>
+    <string name="stop_tracking_message">Are you sure to stop tracking?</string>
+    <string name="permission_required">Permission is required</string>
+    <string name="give_us_permission">Please give us permission so we could work properly</string>
+    <string name="change_settings">Change Settings</string>
+    <string name="start">Start</string>
+    <string name="end">End</string>
+</resources>
